@@ -1,0 +1,7 @@
+{
+  "name": "Steelbound: Duel of Shadows",
+  "description": "A cinematic 1v1 medieval duel fighting game in an abandoned castle courtyard. Master sword and battle axe combat with responsive dodging, blocking, and combos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
